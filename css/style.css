@@ -37,3 +37,12 @@ span {
   font-style: normal;
   margin-left: 10px;
 }
+a {
+  color: purple;
+  text-decoration: none;
+  text-align: center;
+  margin-left: 30%;
+}
+a:hover {
+  color:orange;
+}
